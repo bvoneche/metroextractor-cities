@@ -2147,6 +2147,14 @@
                         "right": "-1.046"
                     }
                 }, 
+                "liege_belgium": {
+                    "bbox": {
+                        "top": "50.732",
+                        "left": "5.195",
+                        "bottom": "50.506",
+                        "right": "5.693"
+                    }
+                },
                 "lille_france": {
                     "bbox": {
                         "top": "50.800",
